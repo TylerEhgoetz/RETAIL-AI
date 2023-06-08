@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/haydenvenable/zillow-observed-rent-index-jan-2014-june-2021
+My opnion -> could be relevant if we are interrested in doing the U.S. and find general multiplier for rent cost to sale price. We could try
+to find data on price to rent ratios which would then let us calculate the mean price for a location.

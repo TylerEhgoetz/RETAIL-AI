@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/robikscube/zillow-home-value-index
+My opinion -> includes current average home value index for every state accross the U.S. and could be important if we do U.S. homes

@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/paultimothymooney/zillow-house-price-data?select=City_Zhvi_3bedroom.csv
+my opinion -> this is key data that could become the foundation of our project.

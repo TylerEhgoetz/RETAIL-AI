@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/alexhuggler/austin-zillow-houses-for-sale
+https://www.kaggle.com/datasets/ericpierce/austinhousingprices
+my opinion: -> could be useful if we plan to include the U.S and contains recent and accurate data
